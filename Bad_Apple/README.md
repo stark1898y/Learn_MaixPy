@@ -4,3 +4,5 @@ bad_apple.avi下载链接在此：
 
 效果如下图
 ![image](https://github.com/1658608470/Learn_MaixPy/blob/master/Bad_Apple/IMG_20191112_204008.jpg)
+
+参考https://maixpy.sipeed.com/zh/libs/machine_vision/video.html
